@@ -133,4 +133,4 @@ typings/
 Typescript/*
 Webpack/*
 
-workspace
+workspace.code-workspace
