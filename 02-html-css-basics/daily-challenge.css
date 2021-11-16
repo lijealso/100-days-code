@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: rgb(233, 215, 207);
+    margin: 50px;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: rgb(107, 100, 172);
+}
+
+p {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: normal;
+    color: black;
+}
+
+a {
+    color: rgb(167, 1, 78);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#todays-challenge {
+    font-family: sans-serif;
+    text-align: center;
+    color: sienna;
+    font-weight: bold;
+    font-size: 52px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    /* center image */
+}
